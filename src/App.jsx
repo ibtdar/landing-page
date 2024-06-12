@@ -13,7 +13,7 @@ function App() {
       <Router>
       <Header/>
         <Routes>
-          <Route path="/" element={<HomeRedirect />} />
+          <Route path="/" element={<Ecommerce />} />
           <Route path="/ecommerce-website-development/" element={<Ecommerce />} />
         </Routes>
         <Footer/>

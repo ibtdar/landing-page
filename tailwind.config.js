@@ -18,7 +18,7 @@ export default {
     },
     extend: {
       boxShadow: {
-        'custom-light': '1px 5px 10px rgba(0, 0, 0, 0.05)',
+        'custom-light': '0 6px 38px rgba(0, 0, 0, .07);',
         'custom-hover': '3px 3px 0px #EFC337',
       },
     },
